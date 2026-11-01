@@ -1,6 +1,10 @@
 package sistemaBancario;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
+
+import sistemaBancario.model.ContaBancaria;
+import sistemaBancario.service.Banco;
 
 public class Main {
 	public static void main(String[] args) {

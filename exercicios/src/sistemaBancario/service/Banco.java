@@ -1,6 +1,9 @@
-package sistemaBancario;
+package sistemaBancario.service;
+
 
 import java.util.ArrayList;
+
+import sistemaBancario.model.ContaBancaria;
 
 public class Banco {
 	private String nome;

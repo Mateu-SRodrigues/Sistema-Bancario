@@ -1,6 +1,8 @@
-package sistemaBancario;
-
 //Inicializa a classe ContaBancaria com construtor
+package sistemaBancario.model;
+
+
+
 public class ContaBancaria {
 	//Atributos privados para garantir o encapsulamento, assim somente a classe ContaBancaria pode acessá-los diretamente
 	private String titular;
