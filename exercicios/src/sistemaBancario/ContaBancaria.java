@@ -1,4 +1,4 @@
-package exercicios.ex11;
+package sistemaBancario;
 
 //Inicializa a classe ContaBancaria com construtor
 public class ContaBancaria {
